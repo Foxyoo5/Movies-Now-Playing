@@ -39,7 +39,7 @@ def build_rss(movies):
 
         items.append(f"""
     <item>
-      <title>New Movie Releases</title>
+      <title>{title}</title>
       <link>{link}</link>
       <guid isPermaLink="false">{m['id']}</guid>
       <pubDate>{now}</pubDate>
@@ -50,7 +50,7 @@ def build_rss(movies):
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
+    <title>New Movie Releases</title>
     <link>https://www.themoviedb.org/movie/now-playing</link>
     <description>Movies currently playing in theaters, from TMDB</description>
     <lastBuildDate>{now}</lastBuildDate>
