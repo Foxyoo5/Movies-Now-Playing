@@ -50,7 +50,7 @@ def build_rss(movies):
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>TMDB Now Playing</title>
+    <title></title>
     <link>https://www.themoviedb.org/movie/now-playing</link>
     <description>Movies currently playing in theaters, from TMDB</description>
     <lastBuildDate>{now}</lastBuildDate>
