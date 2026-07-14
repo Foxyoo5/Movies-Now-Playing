@@ -39,7 +39,7 @@ def build_rss(movies):
 
         items.append(f"""
     <item>
-      <title>{title}</title>
+      <title>New Movie Releases</title>
       <link>{link}</link>
       <guid isPermaLink="false">{m['id']}</guid>
       <pubDate>{now}</pubDate>
