@@ -4,38 +4,38 @@
     <title>New Movie Releases</title>
     <link>https://www.themoviedb.org/movie/now-playing</link>
     <description>Movies currently playing in theaters, from TMDB</description>
-    <lastBuildDate>Fri, 17 Jul 2026 07:35:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 16:37:24 +0000</lastBuildDate>
     <ttl>720</ttl>
     
     <item>
       <title>Toy Story 5</title>
       <link>https://www.themoviedb.org/movie/1084244</link>
       <guid isPermaLink="false">1084244</guid>
-      <pubDate>Fri, 17 Jul 2026 07:35:23 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 16:37:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg" alt="Toy Story 5" /><br/>When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Moana</title>
-      <link>https://www.themoviedb.org/movie/1108427</link>
-      <guid isPermaLink="false">1108427</guid>
-      <pubDate>Fri, 17 Jul 2026 07:35:23 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg" alt="Moana" /><br/>Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Disclosure Day</title>
       <link>https://www.themoviedb.org/movie/1275779</link>
       <guid isPermaLink="false">1275779</guid>
-      <pubDate>Fri, 17 Jul 2026 07:35:23 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 16:37:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg" alt="Disclosure Day" /><br/>A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Moana</title>
+      <link>https://www.themoviedb.org/movie/1108427</link>
+      <guid isPermaLink="false">1108427</guid>
+      <pubDate>Fri, 17 Jul 2026 16:37:24 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg" alt="Moana" /><br/>Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Backrooms</title>
       <link>https://www.themoviedb.org/movie/1083381</link>
       <guid isPermaLink="false">1083381</guid>
-      <pubDate>Fri, 17 Jul 2026 07:35:23 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 16:37:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg" alt="Backrooms" /><br/>A strange doorway appears in the basement of a furniture showroom.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg" type="image/jpeg" />
     </item>
@@ -43,7 +43,7 @@
       <title>The Furious</title>
       <link>https://www.themoviedb.org/movie/1280738</link>
       <guid isPermaLink="false">1280738</guid>
-      <pubDate>Fri, 17 Jul 2026 07:35:23 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 16:37:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg" alt="The Furious" /><br/>After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tenacious journalist whose wife has mysteriously vanished, is his only ally. In this explosive martial arts showdown, the unlikely duo fights the kidnappers ruthlessly driven by a furious vengeance.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg" type="image/jpeg" />
     </item>
@@ -51,7 +51,7 @@
       <title>The Odyssey</title>
       <link>https://www.themoviedb.org/movie/1368337</link>
       <guid isPermaLink="false">1368337</guid>
-      <pubDate>Fri, 17 Jul 2026 07:35:23 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 16:37:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg" alt="The Odyssey" /><br/>Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg" type="image/jpeg" />
     </item>
@@ -59,23 +59,15 @@
       <title>Citizen Vigilante</title>
       <link>https://www.themoviedb.org/movie/1413976</link>
       <guid isPermaLink="false">1413976</guid>
-      <pubDate>Fri, 17 Jul 2026 07:35:23 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 16:37:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg" alt="Citizen Vigilante" /><br/>A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the local police chief.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Evil Dead Burn</title>
-      <link>https://www.themoviedb.org/movie/1212763</link>
-      <guid isPermaLink="false">1212763</guid>
-      <pubDate>Fri, 17 Jul 2026 07:35:23 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg" alt="Evil Dead Burn" /><br/>After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vows she took in life survive even in death.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>The Get Out</title>
       <link>https://www.themoviedb.org/movie/1279493</link>
       <guid isPermaLink="false">1279493</guid>
-      <pubDate>Fri, 17 Jul 2026 07:35:23 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 16:37:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg" alt="The Get Out" /><br/>A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg" type="image/jpeg" />
     </item>
@@ -83,15 +75,23 @@
       <title>Minions &amp; Monsters</title>
       <link>https://www.themoviedb.org/movie/1315772</link>
       <guid isPermaLink="false">1315772</guid>
-      <pubDate>Fri, 17 Jul 2026 07:35:23 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 16:37:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg" alt="Minions &amp; Monsters" /><br/>This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Evil Dead Burn</title>
+      <link>https://www.themoviedb.org/movie/1212763</link>
+      <guid isPermaLink="false">1212763</guid>
+      <pubDate>Fri, 17 Jul 2026 16:37:24 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg" alt="Evil Dead Burn" /><br/>After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vows she took in life survive even in death.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Kraken</title>
       <link>https://www.themoviedb.org/movie/1110034</link>
       <guid isPermaLink="false">1110034</guid>
-      <pubDate>Fri, 17 Jul 2026 07:35:23 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 16:37:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/xdZ8k5s8DTwWyPBMIcflrYLgcAK.jpg" alt="Kraken" /><br/>A marine biologist is doing research on a fish farm when she encounters several strange occurrences. Along with the brutal deaths of two teenagers, all signs point to the deep fjord; can there be more to the depths than the eye can see?]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/xdZ8k5s8DTwWyPBMIcflrYLgcAK.jpg" type="image/jpeg" />
     </item>
@@ -99,7 +99,7 @@
       <title>I Know Who You Are</title>
       <link>https://www.themoviedb.org/movie/1305672</link>
       <guid isPermaLink="false">1305672</guid>
-      <pubDate>Fri, 17 Jul 2026 07:35:23 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 16:37:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/dzS3PxisVd9y9BrLPiFfA2MvcI8.jpg" alt="I Know Who You Are" /><br/>On 1949 October 1, the day of the founding ceremony of the People's Republic of China, Xiao Dali enters the city and is reorganized as the director of the public security police station. He finds that primary school teacher Feng Jingbo is full of doubts. With the high vigilance of a soldier and the sense of responsibility of a public security official, Dali insists on partnering with Feng and becomes his neighbor. He then spends his whole life carrying out a nearly four-decade pursuit without regrets.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/dzS3PxisVd9y9BrLPiFfA2MvcI8.jpg" type="image/jpeg" />
     </item>
@@ -107,7 +107,7 @@
       <title>Voicemails for Isabelle</title>
       <link>https://www.themoviedb.org/movie/614945</link>
       <guid isPermaLink="false">614945</guid>
-      <pubDate>Fri, 17 Jul 2026 07:35:23 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 16:37:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg" alt="Voicemails for Isabelle" /><br/>A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg" type="image/jpeg" />
     </item>
@@ -115,7 +115,7 @@
       <title>Supergirl</title>
       <link>https://www.themoviedb.org/movie/1081003</link>
       <guid isPermaLink="false">1081003</guid>
-      <pubDate>Fri, 17 Jul 2026 07:35:23 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 16:37:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/moejGxR2haap29d9NQ7qe8x4eGj.jpg" alt="Supergirl" /><br/>When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/moejGxR2haap29d9NQ7qe8x4eGj.jpg" type="image/jpeg" />
     </item>
@@ -123,7 +123,7 @@
       <title>The Invite</title>
       <link>https://www.themoviedb.org/movie/950028</link>
       <guid isPermaLink="false">950028</guid>
-      <pubDate>Fri, 17 Jul 2026 07:35:23 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 16:37:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg" alt="The Invite" /><br/>Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg" type="image/jpeg" />
     </item>
@@ -131,7 +131,7 @@
       <title>Stop! That! Train!</title>
       <link>https://www.themoviedb.org/movie/1541560</link>
       <guid isPermaLink="false">1541560</guid>
-      <pubDate>Fri, 17 Jul 2026 07:35:23 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 16:37:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/w90dGS6D2lVO4aO5rdQ8QECrUGY.jpg" alt="Stop! That! Train!" /><br/>Best friends and train stewardesses Tess and DeeDee trade their dreary shifts on the Stank Rail for the glitzy Glamazonian Express. However, when a catastrophic Stormaganza threatens to crash the high-speed train into Celebration, Florida, the duo in coach must join forces with the snobby first-class attendants, a hot but dimwitted co-conductor, and fabulous US President Judy Gagwell to save the day.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/w90dGS6D2lVO4aO5rdQ8QECrUGY.jpg" type="image/jpeg" />
     </item>
@@ -139,31 +139,31 @@
       <title>Maa Inti Bangaram</title>
       <link>https://www.themoviedb.org/movie/1227241</link>
       <guid isPermaLink="false">1227241</guid>
-      <pubDate>Fri, 17 Jul 2026 07:35:23 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 16:37:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/v8JvcEmBfszcvEzwlB8FN1aPVaK.jpg" alt="Maa Inti Bangaram" /><br/>Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/v8JvcEmBfszcvEzwlB8FN1aPVaK.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>The Death of Robin Hood</title>
-      <link>https://www.themoviedb.org/movie/1284465</link>
-      <guid isPermaLink="false">1284465</guid>
-      <pubDate>Fri, 17 Jul 2026 07:35:23 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg" alt="The Death of Robin Hood" /><br/>Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Girls Like Girls</title>
       <link>https://www.themoviedb.org/movie/1397485</link>
       <guid isPermaLink="false">1397485</guid>
-      <pubDate>Fri, 17 Jul 2026 07:35:23 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 16:37:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/m1hSTBv3qLeywznEGsnqVSln1Tg.jpg" alt="Girls Like Girls" /><br/>Coley, 17, from rural Oregon, navigates intimacy after her mother's passing. Meeting Sonya sparks new feelings, but self-doubt hinders their connection. Sonya, unfamiliar with dating girls, is uncertain. They learn to embrace emotions.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/m1hSTBv3qLeywznEGsnqVSln1Tg.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>The Death of Robin Hood</title>
+      <link>https://www.themoviedb.org/movie/1284465</link>
+      <guid isPermaLink="false">1284465</guid>
+      <pubDate>Fri, 17 Jul 2026 16:37:24 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg" alt="The Death of Robin Hood" /><br/>Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Call Me by Your Name</title>
       <link>https://www.themoviedb.org/movie/398818</link>
       <guid isPermaLink="false">398818</guid>
-      <pubDate>Fri, 17 Jul 2026 07:35:23 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 16:37:24 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg" alt="Call Me by Your Name" /><br/>In the summer of 1983, a 17-year-old Elio spends his days in his family's villa in Italy. One day Oliver, a graduate student, arrives to assist Elio's father, a professor of Greco-Roman culture. Soon, Elio and Oliver discover a summer that will alter their lives forever.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg" type="image/jpeg" />
     </item>
