@@ -4,14 +4,14 @@
     <title>New Movie Releases</title>
     <link>https://www.themoviedb.org/movie/now-playing</link>
     <description>Movies currently playing in theaters, from TMDB</description>
-    <lastBuildDate>Fri, 14 Aug 2026 02:08:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 13:12:00 +0000</lastBuildDate>
     <ttl>720</ttl>
     
     <item>
       <title>Spider-Man: Brand New Day</title>
       <link>https://www.themoviedb.org/movie/969681</link>
       <guid isPermaLink="false">969681</guid>
-      <pubDate>Fri, 14 Aug 2026 02:08:30 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 13:12:00 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg" alt="Spider-Man: Brand New Day" /><br/>Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg" type="image/jpeg" />
     </item>
@@ -19,7 +19,7 @@
       <title>The Odyssey</title>
       <link>https://www.themoviedb.org/movie/1368337</link>
       <guid isPermaLink="false">1368337</guid>
-      <pubDate>Fri, 14 Aug 2026 02:08:30 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 13:12:00 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg" alt="The Odyssey" /><br/>Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg" type="image/jpeg" />
     </item>
@@ -27,7 +27,7 @@
       <title>Evil Dead Burn</title>
       <link>https://www.themoviedb.org/movie/1212763</link>
       <guid isPermaLink="false">1212763</guid>
-      <pubDate>Fri, 14 Aug 2026 02:08:30 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 13:12:00 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg" alt="Evil Dead Burn" /><br/>After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg" type="image/jpeg" />
     </item>
@@ -35,7 +35,7 @@
       <title>Moana</title>
       <link>https://www.themoviedb.org/movie/1108427</link>
       <guid isPermaLink="false">1108427</guid>
-      <pubDate>Fri, 14 Aug 2026 02:08:30 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 13:12:00 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg" alt="Moana" /><br/>Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg" type="image/jpeg" />
     </item>
@@ -43,7 +43,7 @@
       <title>Avatar Aang: The Last Airbender</title>
       <link>https://www.themoviedb.org/movie/980431</link>
       <guid isPermaLink="false">980431</guid>
-      <pubDate>Fri, 14 Aug 2026 02:08:30 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 13:12:00 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg" alt="Avatar Aang: The Last Airbender" /><br/>Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg" type="image/jpeg" />
     </item>
@@ -51,15 +51,15 @@
       <title>The End of Oak Street</title>
       <link>https://www.themoviedb.org/movie/1101383</link>
       <guid isPermaLink="false">1101383</guid>
-      <pubDate>Fri, 14 Aug 2026 02:08:30 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg" alt="The End of Oak Street" /><br/>After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg" type="image/jpeg" />
+      <pubDate>Fri, 14 Aug 2026 13:12:00 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg" alt="The End of Oak Street" /><br/>After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Borderline</title>
       <link>https://www.themoviedb.org/movie/1727780</link>
       <guid isPermaLink="false">1727780</guid>
-      <pubDate>Fri, 14 Aug 2026 02:08:30 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 13:12:00 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/sAA2mjpYJFAKydtzG4P4aHC4mZk.jpg" alt="Borderline" /><br/>Convinced they are our secret saviors, rogue U.S. operatives abduct Mexican gang members and seed them across major American cities, unleashing criminal chaos, swaying voters by playing on nativist prejudices, and forcing law enforcement into a race to expose the plot as the escalating carnage threatens democracy itself.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/sAA2mjpYJFAKydtzG4P4aHC4mZk.jpg" type="image/jpeg" />
     </item>
@@ -67,7 +67,7 @@
       <title>The Invite</title>
       <link>https://www.themoviedb.org/movie/950028</link>
       <guid isPermaLink="false">950028</guid>
-      <pubDate>Fri, 14 Aug 2026 02:08:30 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 13:12:00 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg" alt="The Invite" /><br/>Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg" type="image/jpeg" />
     </item>
@@ -75,7 +75,7 @@
       <title>The Isolate Thief</title>
       <link>https://www.themoviedb.org/movie/1404304</link>
       <guid isPermaLink="false">1404304</guid>
-      <pubDate>Fri, 14 Aug 2026 02:08:30 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 13:12:00 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg" alt="The Isolate Thief" /><br/>A young woman struggles to conceal the gold she stole from a group of violent outlaws who have seized control of her remote outpost.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg" type="image/jpeg" />
     </item>
@@ -83,7 +83,7 @@
       <title>Ice Cream Man</title>
       <link>https://www.themoviedb.org/movie/1477712</link>
       <guid isPermaLink="false">1477712</guid>
-      <pubDate>Fri, 14 Aug 2026 02:08:30 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 13:12:00 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/c987gxFjXqYOxZEZKcTkS1ONTWH.jpg" alt="Ice Cream Man" /><br/>An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/c987gxFjXqYOxZEZKcTkS1ONTWH.jpg" type="image/jpeg" />
     </item>
@@ -91,7 +91,7 @@
       <title>Her Private Hell</title>
       <link>https://www.themoviedb.org/movie/1469342</link>
       <guid isPermaLink="false">1469342</guid>
-      <pubDate>Fri, 14 Aug 2026 02:08:30 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 13:12:00 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/kiFacg75KVjy0AM3S4QmbPas8zL.jpg" alt="Her Private Hell" /><br/>When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/kiFacg75KVjy0AM3S4QmbPas8zL.jpg" type="image/jpeg" />
     </item>
@@ -99,7 +99,7 @@
       <title>DC</title>
       <link>https://www.themoviedb.org/movie/1479832</link>
       <guid isPermaLink="false">1479832</guid>
-      <pubDate>Fri, 14 Aug 2026 02:08:30 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 13:12:00 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/k9AwqfQ9wYtaGew8oZh6GBouvO2.jpg" alt="DC" /><br/>Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/k9AwqfQ9wYtaGew8oZh6GBouvO2.jpg" type="image/jpeg" />
     </item>
@@ -107,7 +107,7 @@
       <title>THE RIBBON HERO</title>
       <link>https://www.themoviedb.org/movie/1679730</link>
       <guid isPermaLink="false">1679730</guid>
-      <pubDate>Fri, 14 Aug 2026 02:08:30 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 13:12:00 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg" alt="THE RIBBON HERO" /><br/>When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg" type="image/jpeg" />
     </item>
@@ -115,7 +115,7 @@
       <title>PAW Patrol: The Dino Movie</title>
       <link>https://www.themoviedb.org/movie/1185806</link>
       <guid isPermaLink="false">1185806</guid>
-      <pubDate>Fri, 14 Aug 2026 02:08:30 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 13:12:00 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg" alt="PAW Patrol: The Dino Movie" /><br/>The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg" type="image/jpeg" />
     </item>
@@ -123,7 +123,7 @@
       <title>Jana Nayagan</title>
       <link>https://www.themoviedb.org/movie/1235877</link>
       <guid isPermaLink="false">1235877</guid>
-      <pubDate>Fri, 14 Aug 2026 02:08:30 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 13:12:00 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg" alt="Jana Nayagan" /><br/>A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg" type="image/jpeg" />
     </item>
@@ -131,7 +131,7 @@
       <title>Your Name.</title>
       <link>https://www.themoviedb.org/movie/372058</link>
       <guid isPermaLink="false">372058</guid>
-      <pubDate>Fri, 14 Aug 2026 02:08:30 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 13:12:00 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/vfJFJPepRKapMd5G2ro7klIRysq.jpg" alt="Your Name." /><br/>High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/vfJFJPepRKapMd5G2ro7klIRysq.jpg" type="image/jpeg" />
     </item>
@@ -139,7 +139,7 @@
       <title>Teenage Sex and Death at Camp Miasma</title>
       <link>https://www.themoviedb.org/movie/1240889</link>
       <guid isPermaLink="false">1240889</guid>
-      <pubDate>Fri, 14 Aug 2026 02:08:30 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 13:12:00 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/5Cz1EJOKpZ8hqvBNZYF9C2zTB2T.jpg" alt="Teenage Sex and Death at Camp Miasma" /><br/>After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/5Cz1EJOKpZ8hqvBNZYF9C2zTB2T.jpg" type="image/jpeg" />
     </item>
@@ -147,7 +147,7 @@
       <title>Lenin</title>
       <link>https://www.themoviedb.org/movie/1408170</link>
       <guid isPermaLink="false">1408170</guid>
-      <pubDate>Fri, 14 Aug 2026 02:08:30 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 13:12:00 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg" alt="Lenin" /><br/>In a village trapped by generations of bloodshed, a determined young man dares to challenge the traditions fueling an endless cycle of violence.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg" type="image/jpeg" />
     </item>
@@ -155,7 +155,7 @@
       <title>La La Land</title>
       <link>https://www.themoviedb.org/movie/313369</link>
       <guid isPermaLink="false">313369</guid>
-      <pubDate>Fri, 14 Aug 2026 02:08:30 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 13:12:00 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg" alt="La La Land" /><br/>Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg" type="image/jpeg" />
     </item>
@@ -163,7 +163,7 @@
       <title>One Night Only</title>
       <link>https://www.themoviedb.org/movie/1433367</link>
       <guid isPermaLink="false">1433367</guid>
-      <pubDate>Fri, 14 Aug 2026 02:08:30 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 13:12:00 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/9LGEqZvzI7Tsosf8srwEY48rZsD.jpg" alt="One Night Only" /><br/>Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/9LGEqZvzI7Tsosf8srwEY48rZsD.jpg" type="image/jpeg" />
     </item>
