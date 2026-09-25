@@ -4,14 +4,14 @@
     <title>New Movie Releases</title>
     <link>https://www.themoviedb.org/movie/now-playing</link>
     <description>Movies currently playing in theaters, from TMDB</description>
-    <lastBuildDate>Thu, 24 Sep 2026 16:45:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 04:03:28 +0000</lastBuildDate>
     <ttl>720</ttl>
     
     <item>
       <title>Resident Evil</title>
       <link>https://www.themoviedb.org/movie/1423191</link>
       <guid isPermaLink="false">1423191</guid>
-      <pubDate>Thu, 24 Sep 2026 16:45:07 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 04:03:28 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg" alt="Resident Evil" /><br/>Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg" type="image/jpeg" />
     </item>
@@ -19,7 +19,7 @@
       <title>Coyote vs. Acme</title>
       <link>https://www.themoviedb.org/movie/1204680</link>
       <guid isPermaLink="false">1204680</guid>
-      <pubDate>Thu, 24 Sep 2026 16:45:07 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 04:03:28 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg" alt="Coyote vs. Acme" /><br/>After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg" type="image/jpeg" />
     </item>
@@ -27,7 +27,7 @@
       <title>Colony</title>
       <link>https://www.themoviedb.org/movie/1375646</link>
       <guid isPermaLink="false">1375646</guid>
-      <pubDate>Thu, 24 Sep 2026 16:45:07 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 04:03:28 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg" alt="Colony" /><br/>Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg" type="image/jpeg" />
     </item>
@@ -35,7 +35,7 @@
       <title>Mutiny</title>
       <link>https://www.themoviedb.org/movie/1288445</link>
       <guid isPermaLink="false">1288445</guid>
-      <pubDate>Thu, 24 Sep 2026 16:45:07 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 04:03:28 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg" alt="Mutiny" /><br/>After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg" type="image/jpeg" />
     </item>
@@ -43,7 +43,7 @@
       <title>The Fix</title>
       <link>https://www.themoviedb.org/movie/1228834</link>
       <guid isPermaLink="false">1228834</guid>
-      <pubDate>Thu, 24 Sep 2026 16:45:07 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 04:03:28 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/yopXjun3ICFfJci2ukcEzceZjUs.jpg" alt="The Fix" /><br/>Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/yopXjun3ICFfJci2ukcEzceZjUs.jpg" type="image/jpeg" />
     </item>
@@ -51,7 +51,7 @@
       <title>Teenage Sex and Death at Camp Miasma</title>
       <link>https://www.themoviedb.org/movie/1240889</link>
       <guid isPermaLink="false">1240889</guid>
-      <pubDate>Thu, 24 Sep 2026 16:45:07 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 04:03:28 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg" alt="Teenage Sex and Death at Camp Miasma" /><br/>After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/6Q6Zo6GNXMLP600OJSh6MhW21um.jpg" type="image/jpeg" />
     </item>
@@ -59,7 +59,7 @@
       <title>Avengers: Endgame</title>
       <link>https://www.themoviedb.org/movie/299534</link>
       <guid isPermaLink="false">299534</guid>
-      <pubDate>Thu, 24 Sep 2026 16:45:07 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 04:03:28 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg" alt="Avengers: Endgame" /><br/>After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg" type="image/jpeg" />
     </item>
@@ -67,23 +67,15 @@
       <title>Heart of the Beast</title>
       <link>https://www.themoviedb.org/movie/1263337</link>
       <guid isPermaLink="false">1263337</guid>
-      <pubDate>Thu, 24 Sep 2026 16:45:07 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 04:03:28 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg" alt="Heart of the Beast" /><br/>After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Hot Spot</title>
-      <link>https://www.themoviedb.org/movie/813418</link>
-      <guid isPermaLink="false">813418</guid>
-      <pubDate>Thu, 24 Sep 2026 16:45:07 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg" alt="Hot Spot" /><br/>Set in a near future society ruled by sentient A.I., a private eye investigates a murder case only to discover a rebel group capable of undermining the digital overlord. As the detective's identity slowly unravels, his world enters a state of hypnotic meltdown.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Modha Rathri</title>
       <link>https://www.themoviedb.org/movie/1685882</link>
       <guid isPermaLink="false">1685882</guid>
-      <pubDate>Thu, 24 Sep 2026 16:45:07 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 04:03:28 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/lZiTSLDLIkW9YS6CWo8uaXZMcO6.jpg" alt="Modha Rathri" /><br/>Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/lZiTSLDLIkW9YS6CWo8uaXZMcO6.jpg" type="image/jpeg" />
     </item>
@@ -91,15 +83,23 @@
       <title>Fall 2: Deadpoint</title>
       <link>https://www.themoviedb.org/movie/1101412</link>
       <guid isPermaLink="false">1101412</guid>
-      <pubDate>Thu, 24 Sep 2026 16:45:07 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 04:03:28 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg" alt="Fall 2: Deadpoint" /><br/>On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Hot Spot</title>
+      <link>https://www.themoviedb.org/movie/813418</link>
+      <guid isPermaLink="false">813418</guid>
+      <pubDate>Fri, 25 Sep 2026 04:03:28 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg" alt="Hot Spot" /><br/>Set in a near future society ruled by sentient A.I., a private eye investigates a murder case only to discover a rebel group capable of undermining the digital overlord. As the detective's identity slowly unravels, his world enters a state of hypnotic meltdown.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Hope</title>
       <link>https://www.themoviedb.org/movie/1058424</link>
       <guid isPermaLink="false">1058424</guid>
-      <pubDate>Thu, 24 Sep 2026 16:45:07 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 04:03:28 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg" alt="Hope" /><br/>In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg" type="image/jpeg" />
     </item>
@@ -107,7 +107,7 @@
       <title>Runner</title>
       <link>https://www.themoviedb.org/movie/1377237</link>
       <guid isPermaLink="false">1377237</guid>
-      <pubDate>Thu, 24 Sep 2026 16:45:07 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 04:03:28 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg" alt="Runner" /><br/>A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg" type="image/jpeg" />
     </item>
@@ -115,23 +115,23 @@
       <title>Practical Magic 2</title>
       <link>https://www.themoviedb.org/movie/1302904</link>
       <guid isPermaLink="false">1302904</guid>
-      <pubDate>Thu, 24 Sep 2026 16:45:07 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 04:03:28 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg" alt="Practical Magic 2" /><br/>The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Irumudi</title>
-      <link>https://www.themoviedb.org/movie/1441228</link>
-      <guid isPermaLink="false">1441228</guid>
-      <pubDate>Thu, 24 Sep 2026 16:45:07 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/sPePQmJRKkB14sGjB7zBkLJkaTW.jpg" alt="Irumudi" /><br/>An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/sPePQmJRKkB14sGjB7zBkLJkaTW.jpg" type="image/jpeg" />
+      <title>Forgotten Island</title>
+      <link>https://www.themoviedb.org/movie/1465063</link>
+      <guid isPermaLink="false">1465063</guid>
+      <pubDate>Fri, 25 Sep 2026 04:03:28 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg" alt="Forgotten Island" /><br/>While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Insidious: Out of the Further</title>
       <link>https://www.themoviedb.org/movie/1291595</link>
       <guid isPermaLink="false">1291595</guid>
-      <pubDate>Thu, 24 Sep 2026 16:45:07 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 04:03:28 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg" alt="Insidious: Out of the Further" /><br/>Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg" type="image/jpeg" />
     </item>
@@ -139,7 +139,7 @@
       <title>Idiots</title>
       <link>https://www.themoviedb.org/movie/445466</link>
       <guid isPermaLink="false">445466</guid>
-      <pubDate>Thu, 24 Sep 2026 16:45:07 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 04:03:28 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/flpCqxH46pGZD1kNOdYgrVsDoTm.jpg" alt="Idiots" /><br/>Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their passenger derails their plans.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/flpCqxH46pGZD1kNOdYgrVsDoTm.jpg" type="image/jpeg" />
     </item>
@@ -147,23 +147,23 @@
       <title>The Dog Stars</title>
       <link>https://www.themoviedb.org/movie/1384216</link>
       <guid isPermaLink="false">1384216</guid>
-      <pubDate>Thu, 24 Sep 2026 16:45:07 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 04:03:28 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/A7i16oDi03qrKep5pBfuTWNUTb.jpg" alt="The Dog Stars" /><br/>After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/A7i16oDi03qrKep5pBfuTWNUTb.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Forgotten Island</title>
-      <link>https://www.themoviedb.org/movie/1465063</link>
-      <guid isPermaLink="false">1465063</guid>
-      <pubDate>Thu, 24 Sep 2026 16:45:07 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg" alt="Forgotten Island" /><br/>While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg" type="image/jpeg" />
+      <title>Irumudi</title>
+      <link>https://www.themoviedb.org/movie/1441228</link>
+      <guid isPermaLink="false">1441228</guid>
+      <pubDate>Fri, 25 Sep 2026 04:03:28 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/sPePQmJRKkB14sGjB7zBkLJkaTW.jpg" alt="Irumudi" /><br/>An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/sPePQmJRKkB14sGjB7zBkLJkaTW.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Tony</title>
       <link>https://www.themoviedb.org/movie/1329016</link>
       <guid isPermaLink="false">1329016</guid>
-      <pubDate>Thu, 24 Sep 2026 16:45:07 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 04:03:28 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg" alt="Tony" /><br/>A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg" type="image/jpeg" />
     </item>
