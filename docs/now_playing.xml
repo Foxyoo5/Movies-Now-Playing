@@ -4,14 +4,14 @@
     <title>New Movie Releases</title>
     <link>https://www.themoviedb.org/movie/now-playing</link>
     <description>Movies currently playing in theaters, from TMDB</description>
-    <lastBuildDate>Fri, 09 Oct 2026 05:13:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 18:07:34 +0000</lastBuildDate>
     <ttl>720</ttl>
     
     <item>
       <title>Resident Evil</title>
       <link>https://www.themoviedb.org/movie/1423191</link>
       <guid isPermaLink="false">1423191</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:29 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 18:07:34 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg" alt="Resident Evil" /><br/>Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg" type="image/jpeg" />
     </item>
@@ -19,7 +19,7 @@
       <title>The Fix</title>
       <link>https://www.themoviedb.org/movie/1228834</link>
       <guid isPermaLink="false">1228834</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:29 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 18:07:34 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/yopXjun3ICFfJci2ukcEzceZjUs.jpg" alt="The Fix" /><br/>Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/yopXjun3ICFfJci2ukcEzceZjUs.jpg" type="image/jpeg" />
     </item>
@@ -27,7 +27,7 @@
       <title>Runner</title>
       <link>https://www.themoviedb.org/movie/1377237</link>
       <guid isPermaLink="false">1377237</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:29 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 18:07:34 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg" alt="Runner" /><br/>A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg" type="image/jpeg" />
     </item>
@@ -35,7 +35,7 @@
       <title>Fall 2: Deadpoint</title>
       <link>https://www.themoviedb.org/movie/1101412</link>
       <guid isPermaLink="false">1101412</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:29 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 18:07:34 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg" alt="Fall 2: Deadpoint" /><br/>On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg" type="image/jpeg" />
     </item>
@@ -43,7 +43,7 @@
       <title>Digger</title>
       <link>https://www.themoviedb.org/movie/1248832</link>
       <guid isPermaLink="false">1248832</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:29 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 18:07:34 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg" alt="Digger" /><br/>The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg" type="image/jpeg" />
     </item>
@@ -51,7 +51,7 @@
       <title>Obsession</title>
       <link>https://www.themoviedb.org/movie/1339713</link>
       <guid isPermaLink="false">1339713</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:29 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 18:07:34 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg" alt="Obsession" /><br/>After breaking the mysterious "One Wish Willow" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg" type="image/jpeg" />
     </item>
@@ -59,7 +59,7 @@
       <title>Verity</title>
       <link>https://www.themoviedb.org/movie/1283515</link>
       <guid isPermaLink="false">1283515</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:29 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 18:07:34 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg" alt="Verity" /><br/>Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg" type="image/jpeg" />
     </item>
@@ -67,7 +67,7 @@
       <title>The Uprising</title>
       <link>https://www.themoviedb.org/movie/977942</link>
       <guid isPermaLink="false">977942</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:29 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 18:07:34 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg" alt="The Uprising" /><br/>As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg" type="image/jpeg" />
     </item>
@@ -75,7 +75,7 @@
       <title>Heart of the Beast</title>
       <link>https://www.themoviedb.org/movie/1263337</link>
       <guid isPermaLink="false">1263337</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:29 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 18:07:34 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg" alt="Heart of the Beast" /><br/>After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg" type="image/jpeg" />
     </item>
@@ -83,15 +83,23 @@
       <title>Avengers: Endgame</title>
       <link>https://www.themoviedb.org/movie/299534</link>
       <guid isPermaLink="false">299534</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:29 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 18:07:34 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg" alt="Avengers: Endgame" /><br/>After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Other Mommy</title>
+      <link>https://www.themoviedb.org/movie/1400837</link>
+      <guid isPermaLink="false">1400837</guid>
+      <pubDate>Fri, 09 Oct 2026 18:07:34 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg" alt="Other Mommy" /><br/>Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Onslaught</title>
       <link>https://www.themoviedb.org/movie/1284046</link>
       <guid isPermaLink="false">1284046</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:29 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 18:07:34 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg" alt="Onslaught" /><br/>When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg" type="image/jpeg" />
     </item>
@@ -99,7 +107,7 @@
       <title>The Nightmare Before Christmas</title>
       <link>https://www.themoviedb.org/movie/9479</link>
       <guid isPermaLink="false">9479</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:29 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 18:07:34 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg" alt="The Nightmare Before Christmas" /><br/>Tired of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly king of Halloween Town, kidnaps Santa Claus and plans to deliver shrunken heads and other ghoulish gifts to children on Christmas morning. But as Christmas approaches, Jack's rag-doll girlfriend, Sally, tries to foil his misguided plans.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg" type="image/jpeg" />
     </item>
@@ -107,23 +115,15 @@
       <title>Family</title>
       <link>https://www.themoviedb.org/movie/1229906</link>
       <guid isPermaLink="false">1229906</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:29 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 18:07:34 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/cTXGUz1Mle56A6vAK2GAf1j8Wtn.jpg" alt="Family" /><br/>A 10-year-old girl begins to believe her parents are trying to kill her. Convinced a sinister spirit is to blame, she spirals into a haunting fantasy world that mirrors her deepest fears.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/cTXGUz1Mle56A6vAK2GAf1j8Wtn.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Other Mommy</title>
-      <link>https://www.themoviedb.org/movie/1400837</link>
-      <guid isPermaLink="false">1400837</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:29 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg" alt="Other Mommy" /><br/>Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Forgotten Island</title>
       <link>https://www.themoviedb.org/movie/1465063</link>
       <guid isPermaLink="false">1465063</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:29 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 18:07:34 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg" alt="Forgotten Island" /><br/>While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg" type="image/jpeg" />
     </item>
@@ -131,41 +131,41 @@
       <title>Primetime</title>
       <link>https://www.themoviedb.org/movie/1375441</link>
       <guid isPermaLink="false">1375441</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:29 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 18:07:34 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg" alt="Primetime" /><br/>In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bethlehem Kudumba Unit</title>
-      <link>https://www.themoviedb.org/movie/1508168</link>
-      <guid isPermaLink="false">1508168</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:29 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg" alt="Bethlehem Kudumba Unit" /><br/>Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Drishyam: The Conclusion</title>
-      <link>https://www.themoviedb.org/movie/1269325</link>
-      <guid isPermaLink="false">1269325</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:29 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/67FsF2kpgEZ1T5Qos4adgqm9dLf.jpg" alt="Drishyam: The Conclusion" /><br/>Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/67FsF2kpgEZ1T5Qos4adgqm9dLf.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Hope</title>
-      <link>https://www.themoviedb.org/movie/1058424</link>
-      <guid isPermaLink="false">1058424</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:29 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg" alt="Hope" /><br/>In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>The Social Reckoning</title>
       <link>https://www.themoviedb.org/movie/1281331</link>
       <guid isPermaLink="false">1281331</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:29 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 18:07:34 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/nZ8cQbjAQHRuSqwxvuYhOfxyhfW.jpg" alt="The Social Reckoning" /><br/>Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/nZ8cQbjAQHRuSqwxvuYhOfxyhfW.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bethlehem Kudumba Unit</title>
+      <link>https://www.themoviedb.org/movie/1508168</link>
+      <guid isPermaLink="false">1508168</guid>
+      <pubDate>Fri, 09 Oct 2026 18:07:34 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg" alt="Bethlehem Kudumba Unit" /><br/>Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Hope</title>
+      <link>https://www.themoviedb.org/movie/1058424</link>
+      <guid isPermaLink="false">1058424</guid>
+      <pubDate>Fri, 09 Oct 2026 18:07:34 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg" alt="Hope" /><br/>In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Drishyam: The Conclusion</title>
+      <link>https://www.themoviedb.org/movie/1269325</link>
+      <guid isPermaLink="false">1269325</guid>
+      <pubDate>Fri, 09 Oct 2026 18:07:34 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/67FsF2kpgEZ1T5Qos4adgqm9dLf.jpg" alt="Drishyam: The Conclusion" /><br/>Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/67FsF2kpgEZ1T5Qos4adgqm9dLf.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
