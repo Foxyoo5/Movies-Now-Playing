@@ -4,14 +4,14 @@
     <title>New Movie Releases</title>
     <link>https://www.themoviedb.org/movie/now-playing</link>
     <description>Movies currently playing in theaters, from TMDB</description>
-    <lastBuildDate>Fri, 16 Oct 2026 16:17:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 03:33:14 +0000</lastBuildDate>
     <ttl>720</ttl>
     
     <item>
       <title>Resident Evil</title>
       <link>https://www.themoviedb.org/movie/1423191</link>
       <guid isPermaLink="false">1423191</guid>
-      <pubDate>Fri, 16 Oct 2026 16:17:59 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 03:33:14 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg" alt="Resident Evil" /><br/>Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg" type="image/jpeg" />
     </item>
@@ -19,7 +19,7 @@
       <title>Animals</title>
       <link>https://www.themoviedb.org/movie/1236045</link>
       <guid isPermaLink="false">1236045</guid>
-      <pubDate>Fri, 16 Oct 2026 16:17:59 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 03:33:14 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/iISM36voS1E8gX9BM0DVK0kgi3E.jpg" alt="Animals" /><br/>When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/iISM36voS1E8gX9BM0DVK0kgi3E.jpg" type="image/jpeg" />
     </item>
@@ -27,7 +27,7 @@
       <title>Runner</title>
       <link>https://www.themoviedb.org/movie/1377237</link>
       <guid isPermaLink="false">1377237</guid>
-      <pubDate>Fri, 16 Oct 2026 16:17:59 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 03:33:14 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg" alt="Runner" /><br/>A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg" type="image/jpeg" />
     </item>
@@ -35,7 +35,7 @@
       <title>The Fix</title>
       <link>https://www.themoviedb.org/movie/1228834</link>
       <guid isPermaLink="false">1228834</guid>
-      <pubDate>Fri, 16 Oct 2026 16:17:59 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 03:33:14 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/jlP8XDjZN89GrpM3je5Uf8Grqx8.jpg" alt="The Fix" /><br/>Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/jlP8XDjZN89GrpM3je5Uf8Grqx8.jpg" type="image/jpeg" />
     </item>
@@ -43,23 +43,15 @@
       <title>Hope</title>
       <link>https://www.themoviedb.org/movie/1058424</link>
       <guid isPermaLink="false">1058424</guid>
-      <pubDate>Fri, 16 Oct 2026 16:17:59 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 03:33:14 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg" alt="Hope" /><br/>In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Obsession</title>
-      <link>https://www.themoviedb.org/movie/1339713</link>
-      <guid isPermaLink="false">1339713</guid>
-      <pubDate>Fri, 16 Oct 2026 16:17:59 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg" alt="Obsession" /><br/>After breaking the mysterious "One Wish Willow" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Practical Magic 2</title>
       <link>https://www.themoviedb.org/movie/1302904</link>
       <guid isPermaLink="false">1302904</guid>
-      <pubDate>Fri, 16 Oct 2026 16:17:59 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 03:33:14 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg" alt="Practical Magic 2" /><br/>The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg" type="image/jpeg" />
     </item>
@@ -67,31 +59,31 @@
       <title>Other Mommy</title>
       <link>https://www.themoviedb.org/movie/1400837</link>
       <guid isPermaLink="false">1400837</guid>
-      <pubDate>Fri, 16 Oct 2026 16:17:59 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 03:33:14 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg" alt="Other Mommy" /><br/>Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Obsession</title>
+      <link>https://www.themoviedb.org/movie/1339713</link>
+      <guid isPermaLink="false">1339713</guid>
+      <pubDate>Sat, 17 Oct 2026 03:33:14 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg" alt="Obsession" /><br/>After breaking the mysterious "One Wish Willow" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Street Fighter</title>
       <link>https://www.themoviedb.org/movie/1153576</link>
       <guid isPermaLink="false">1153576</guid>
-      <pubDate>Fri, 16 Oct 2026 16:17:59 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg" alt="Street Fighter" /><br/>In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Digger</title>
-      <link>https://www.themoviedb.org/movie/1248832</link>
-      <guid isPermaLink="false">1248832</guid>
-      <pubDate>Fri, 16 Oct 2026 16:17:59 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg" alt="Digger" /><br/>The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg" type="image/jpeg" />
+      <pubDate>Sat, 17 Oct 2026 03:33:14 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/kLfJDaFwZ1ZX0Q35KUCxNo0l3Th.jpg" alt="Street Fighter" /><br/>In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/kLfJDaFwZ1ZX0Q35KUCxNo0l3Th.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Buddy</title>
       <link>https://www.themoviedb.org/movie/1514026</link>
       <guid isPermaLink="false">1514026</guid>
-      <pubDate>Fri, 16 Oct 2026 16:17:59 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 03:33:14 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg" alt="Buddy" /><br/>A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg" type="image/jpeg" />
     </item>
@@ -99,7 +91,7 @@
       <title>V/H/S/Mixtape</title>
       <link>https://www.themoviedb.org/movie/1742441</link>
       <guid isPermaLink="false">1742441</guid>
-      <pubDate>Fri, 16 Oct 2026 16:17:59 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 03:33:14 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg" alt="V/H/S/Mixtape" /><br/>V/H/S/MIXTAPE cranks the volume on horror with a blood-soaked collection of cursed music videos, terrifying performances, and found footage. Press play. Pray it stops.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg" type="image/jpeg" />
     </item>
@@ -107,15 +99,23 @@
       <title>The Uprising</title>
       <link>https://www.themoviedb.org/movie/977942</link>
       <guid isPermaLink="false">977942</guid>
-      <pubDate>Fri, 16 Oct 2026 16:17:59 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 03:33:14 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg" alt="The Uprising" /><br/>As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Digger</title>
+      <link>https://www.themoviedb.org/movie/1248832</link>
+      <guid isPermaLink="false">1248832</guid>
+      <pubDate>Sat, 17 Oct 2026 03:33:14 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg" alt="Digger" /><br/>The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Don't Move</title>
       <link>https://www.themoviedb.org/movie/1375161</link>
       <guid isPermaLink="false">1375161</guid>
-      <pubDate>Fri, 16 Oct 2026 16:17:59 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 03:33:14 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/uh0ZSdM8iOQgHwnUlhhanP8Dkl6.jpg" alt="Don't Move" /><br/>A church group's annual retreat turns deadly when they wander into the wrong part of the Ozark wilderness, and something starts picking them off one by one.  Suspicion falls on Ricky, the troublemaker of the group. But the real threat is far worse.  Deep in the forest, wrapped in a labyrinth of webs, the group is pursued by a terrifying prehistoric arachnid that hunts by vibration. When every step could be their last, they only have one choice: Don't Move.  It's up to Megan to hold what's left of the group together and get them out alive.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/uh0ZSdM8iOQgHwnUlhhanP8Dkl6.jpg" type="image/jpeg" />
     </item>
@@ -123,31 +123,31 @@
       <title>Love of Your Life</title>
       <link>https://www.themoviedb.org/movie/1381078</link>
       <guid isPermaLink="false">1381078</guid>
-      <pubDate>Fri, 16 Oct 2026 16:17:59 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 03:33:14 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/pJ8RXWNO7aB19B0tUvLQqXTt7Yo.jpg" alt="Love of Your Life" /><br/>After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/pJ8RXWNO7aB19B0tUvLQqXTt7Yo.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>The Nightmare Before Christmas</title>
-      <link>https://www.themoviedb.org/movie/9479</link>
-      <guid isPermaLink="false">9479</guid>
-      <pubDate>Fri, 16 Oct 2026 16:17:59 +0000</pubDate>
-      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg" alt="The Nightmare Before Christmas" /><br/>Tired of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly king of Halloween Town, kidnaps Santa Claus and plans to deliver shrunken heads and other ghoulish gifts to children on Christmas morning. But as Christmas approaches, Jack's rag-doll girlfriend, Sally, tries to foil his misguided plans.]]></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Avengers: Endgame</title>
       <link>https://www.themoviedb.org/movie/299534</link>
       <guid isPermaLink="false">299534</guid>
-      <pubDate>Fri, 16 Oct 2026 16:17:59 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 03:33:14 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/bR8ISy1O9XQxqiy0fQFw2BX72RQ.jpg" alt="Avengers: Endgame" /><br/>After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/bR8ISy1O9XQxqiy0fQFw2BX72RQ.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>The Nightmare Before Christmas</title>
+      <link>https://www.themoviedb.org/movie/9479</link>
+      <guid isPermaLink="false">9479</guid>
+      <pubDate>Sat, 17 Oct 2026 03:33:14 +0000</pubDate>
+      <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg" alt="The Nightmare Before Christmas" /><br/>Tired of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly king of Halloween Town, kidnaps Santa Claus and plans to deliver shrunken heads and other ghoulish gifts to children on Christmas morning. But as Christmas approaches, Jack's rag-doll girlfriend, Sally, tries to foil his misguided plans.]]></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Heart of the Beast</title>
       <link>https://www.themoviedb.org/movie/1263337</link>
       <guid isPermaLink="false">1263337</guid>
-      <pubDate>Fri, 16 Oct 2026 16:17:59 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 03:33:14 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg" alt="Heart of the Beast" /><br/>After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg" type="image/jpeg" />
     </item>
@@ -155,7 +155,7 @@
       <title>Verity</title>
       <link>https://www.themoviedb.org/movie/1283515</link>
       <guid isPermaLink="false">1283515</guid>
-      <pubDate>Fri, 16 Oct 2026 16:17:59 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 03:33:14 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg" alt="Verity" /><br/>Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg" type="image/jpeg" />
     </item>
@@ -163,7 +163,7 @@
       <title>The Florist</title>
       <link>https://www.themoviedb.org/movie/1476746</link>
       <guid isPermaLink="false">1476746</guid>
-      <pubDate>Fri, 16 Oct 2026 16:17:59 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 03:33:14 +0000</pubDate>
       <description><![CDATA[<img src="https://image.tmdb.org/t/p/w500/4tnRvIiWMzVA2Tw9c7INLo4sfo0.jpg" alt="The Florist" /><br/>A quiet horticulturalist harboring a secret life as a lethal assassin finds his true identity jeopardized when he forms an unlikely friendship with a witnesses to police corruption.]]></description>
       <enclosure url="https://image.tmdb.org/t/p/w500/4tnRvIiWMzVA2Tw9c7INLo4sfo0.jpg" type="image/jpeg" />
     </item>
